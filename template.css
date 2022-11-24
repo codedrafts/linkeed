@@ -1,0 +1,67 @@
+/*-----------------------------------
+Name: Linkeed Instgram Bio Template
+Author: Codedrafts
+Version: 1.0
+License: Personal Use
+Contact: coderafts@gmail.com
+-----------------------------------*/
+@import url(../fonts/syne.css);
+@import url(../vendor/bootstrap/css/bootstrap.min.css);
+@import url(../vendor/bootstrap/icons/bootstrap-icons.css);
+@import url(../css/theme.css);
+/*----------------
+*	cardbox css
+----------------*/
+
+.template {
+	padding: 20px;
+}
+
+.template .row {
+	display: flex;
+}
+
+.cardbox-img img {
+	width: 200px;
+	height: 200px;
+}
+
+.cardbox-img i {
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    display: inline-flex;
+    border-radius: 50%;
+    transform: translate(-50px, 20px);
+}
+
+.cardbox-socials ul {
+	list-style: none;
+}
+
+.cardbox-socials ul li {
+	display: inline-block;
+	margin: 0px 5px;
+}
+
+.cardbox-socials ul li a {
+    width: 45px;
+    height: 45px;
+    display: flex;
+}
+
+.cardbox-p {
+    padding: 20px 0px;
+    width: 90%;
+    display: inline-block;
+}
+
+.cardbox-link-btn {
+	padding: 15px 0px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 0 -1px #00000052;
+}
+
+.cardbox-link-btn a {
+	text-transform: uppercase;
+}

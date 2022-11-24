@@ -1,0 +1,219 @@
+/*-------------------------------
+Name: Linkeed Instagram Template
+Copyright: © Codedrafts
+License: Personal Use Only
+Contact: codedrafts@gmail.com
+-------------------------------*/
+
+/*-------------------------
+	Theme Customization
+-------------------------*/
+
+.theme-title {
+	font-family: 'Syne', sans-serif;
+	font-weight: 700;
+}
+
+.theme-p {
+	font-family: 'Syne', sans-serif;
+	font-weight: 500;
+}
+
+.theme-a {
+	text-decoration: none;
+}
+
+.theme-a:hover {
+	color: #FFF;
+	opacity: 0.5;
+	transition: 0.3s ease all;
+}
+
+/*------------
+	Widgets
+-------------*/
+
+.theme-block {
+	padding: 5px 0px;
+}
+
+.theme-none {
+	padding: 0;
+	margin: 0;
+}
+
+/*--------------------
+	Turn off widget
+--------------------*/
+
+.theme-off {
+	display: none;
+}
+
+/*------------------
+	Color Options
+------------------*/
+
+.theme-color1 {
+	color: #000000;
+	/* Black  */
+}
+
+.theme-color2 {
+	color: #FFFFFF;
+	/* White */
+}
+
+.theme-color3 {
+	color: #202020;
+	/* Gray */
+}
+
+.theme-color4 {
+	color: #92B5FF;
+	/* Blue */
+}
+
+.theme-color5 {
+	color: #FECCB5;
+	/* Pink */
+}
+
+.theme-color6 {
+	color: #C4D39B;
+	/* Green */
+}
+
+.theme-color7 {
+	color: #D2CEFF;
+	/* Light Purple */
+}
+
+.theme-color8 {
+	color: #FEC447;
+	/* Yellow */
+}
+
+/*----------------------
+	Background Options
+----------------------*/
+
+.theme-bg1 {
+	background: #000000;
+	/* Black  */
+}
+
+.theme-bg2 {
+	background: #FFFFFF;
+	/* White */
+}
+
+.theme-bg3 {
+	background: #202020;
+	/* Gray */
+}
+
+.theme-bg4 {
+	background: #92B5FF;
+	/* Blue */
+}
+
+.theme-bg5 {
+	background: #FECCB5;
+	/* Pink */
+}
+
+.theme-bg6 {
+	background: #C4D39B;
+	/* Green */
+}
+
+.theme-bg7 {
+	background: #D2CEFF;
+	/* Light Purple */
+}
+
+.theme-bg8 {
+	background: #FEC447;
+	/* Yellow */
+}
+
+/*------------------------
+	Image Shape Options
+------------------------*/
+
+.theme-img-squared {
+	border: 0.2em solid #000000;
+}
+
+.theme-img-curved {
+	border: 0.2em solid #000000;
+	border-radius: 25%;
+}
+
+.theme-img-circle {
+	border: 0.2em solid #000000;
+	border-radius: 50%;
+}
+
+/*------------------------
+	Icons Shape Options
+------------------------*/
+
+.theme-icon-square {
+	border-radius: none;
+}
+
+.theme-icon-curved {
+	border-radius: 25%;
+}
+
+.theme-icon-circle {
+	border-radius: 50%;
+}
+
+/*----------------------
+	Alignment Options
+----------------------*/
+
+.theme-left {
+	text-align: left;
+}
+
+.theme-right {
+	text-align: right;
+}
+
+.theme-justify {
+	text-align: justify;
+}
+
+.theme-center {
+	text-align: center;
+	align-items: center;
+    justify-content: center;
+}
+
+/*----------------------
+	Font Size Options
+----------------------*/
+
+.theme-font-15 {
+	font-size: 15px;
+}
+
+.theme-font-17 {
+	font-size: 17px;
+}
+
+.theme-font-20 {
+	font-size: 20px;
+}
+
+.theme-font-25 {
+	font-size: 25px;
+}
+
+.theme-font-30 {
+	font-size: 30px;
+}
